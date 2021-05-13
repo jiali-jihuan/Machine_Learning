@@ -5,7 +5,7 @@ For educational purpose only. These repositories are written by me throughout my
 You will find some intuitive approaches/explanation regarding PCA and SVD for dimension reduction, as well as an explanation for eigenvectors and eigenvalues. 
 There is also an example with image compression.
 
-### Machine Learning Handcode, 
+### Machine Learning Handcode
 These are code written from scratch in lieu of built in functions. You will be able to get a sense of what those built in functions are doing in the background. There are the following:
 
 SVD

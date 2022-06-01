@@ -1,5 +1,5 @@
 # Machine_Learning
-For educational purposes only. These repositories are written by me throughout my courses and studies to improve my skillsets.
+For educational purposes only. These repositories were written by me throughout my courses and studies to improve my skillsets.
 
 ### Dimension Reduction
 You will find some intuitive approaches/explanation regarding PCA and SVD for dimension reduction, as well as an explanation for eigenvectors and eigenvalues. 
